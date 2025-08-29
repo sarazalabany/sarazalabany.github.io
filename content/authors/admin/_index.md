@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: TactoRead - Intelligent Reader for Blind and Visually Impaired People
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: TactoRead 
 
 # Full name (for SEO)
 first_name: Shiung Wu
