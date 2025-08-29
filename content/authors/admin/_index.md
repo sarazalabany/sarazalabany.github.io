@@ -1,6 +1,6 @@
 ---
 # Display name
-title: TactoRead - Intelligent Reader for Blind and Visually Impaired People
+title: Intelligent Reader for Blind and Visually Impaired People
 
 # Name pronunciation (optional)
 name_pronunciation: TactoRead 
@@ -56,7 +56,7 @@ Key Features:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
+    institution: Karlsruhe Institute of Technology & University of Freiburg
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -64,8 +64,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MEng Embedded Systems Engineering
+    institution: University of Freiburg
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -186,11 +186,11 @@ awards:
 
 ## About Us
 
-At TactoRead, we are passionate about making technology more accessible, intuitive, and inclusive.
-We are Ahmed and Sara, researchers, PhD holders, and lifelong learners in the field of embedded systems, human-computer interaction, and assistive technology. We've dedicated our work to bridging the gap between innovative engineering and real-world impact.
+  At TactoRead, we are passionate about making technology more accessible, intuitive, and inclusive.
+  We are Ahmed and Sara, researchers, PhD holders, and lifelong learners in the field of embedded systems, human-computer interaction, and assistive technology. We've dedicated our work to bridging the gap between innovative engineering and real-world impact.
 
-TactoRead was born from a shared vision: to create smart, tangible interfaces that empower users through touch and technology. Our research has driven us to explore how embedded systems can enhance accessibility, education, and communication—especially for those often overlooked by mainstream tech solutions.
+  TactoRead was born from a shared vision: to create smart, tangible interfaces that empower users through touch and technology. Our research has driven us to explore how embedded systems can enhance accessibility, education, and communication—especially for those often overlooked by mainstream tech solutions.
 
-We believe in simplicity backed by powerful engineering. Our work is rooted in academic rigor but driven by human needs. Through TactoRead, we aim to transform cutting-edge research into meaningful products that make a difference.
+  We believe in simplicity backed by powerful engineering. Our work is rooted in academic rigor but driven by human needs. Through TactoRead, we aim to transform cutting-edge research into meaningful products that make a difference.
 
-Welcome to our journey!
+  Welcome to our journey!
