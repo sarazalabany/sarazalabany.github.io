@@ -36,14 +36,18 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Our Mission'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        At TactoRead, our mission is to harness the power of embedded systems and human-centered design to create accessible, impactful technologies for the real world.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        As research scientists with a strong academic foundation and a deep passion for innovation, we’re driven by a single question:
+        How can technology better serve people, especially those often left out of mainstream solutions?
+
+        We combine rigorous research with practical engineering to explore how tactile interfaces, intelligent systems, and assistive devices can reshape learning, communication, and inclusion. Our work is rooted in both qualitative insights and quantitative methods, enabling us to deeply understand the evolving role of science and technology in society.
+
+        We're here to collaborate with researchers, developers, educators, and organizations, to build tools that matter.
+        Let’s work together to turn visionary ideas into meaningful, tangible outcomes. 😃
     design:
       columns: '1'
   - block: collection

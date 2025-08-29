@@ -10,11 +10,11 @@ first_name: Shiung Wu
 last_name: Chien
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: 
     url: https://openai.com/
 
 # Social network links
@@ -49,10 +49,10 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Key Features:
+  - AI-Powered Features
+  - Realtime Text Detection
+  - On-device Storage for Files 
 
 education:
   - area: PhD Artificial Intelligence
@@ -147,10 +147,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: German
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Arabic
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,6 +184,13 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About Us
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+At TactoRead, we are passionate about making technology more accessible, intuitive, and inclusive.
+We are Ahmed and Sara, researchers, PhD holders, and lifelong learners in the field of embedded systems, human-computer interaction, and assistive technology. We've dedicated our work to bridging the gap between innovative engineering and real-world impact.
+
+TactoRead was born from a shared vision: to create smart, tangible interfaces that empower users through touch and technology. Our research has driven us to explore how embedded systems can enhance accessibility, education, and communication—especially for those often overlooked by mainstream tech solutions.
+
+We believe in simplicity backed by powerful engineering. Our work is rooted in academic rigor but driven by human needs. Through TactoRead, we aim to transform cutting-edge research into meaningful products that make a difference.
+
+Welcome to our journey!
