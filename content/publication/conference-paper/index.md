@@ -51,7 +51,7 @@ abstract: Capacitive touch screens (CTS’s) are essential components in most of
   users on a conventional touch display will be able to do. This work paves the way to utilize CTS for the tactile displays in the market developed for VI users.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This work introduces a flexible capacitive touch screen (CTS) using polyimide and silver nanowires, optimized for tactile displays with Braille-based microactuators. Gesture recognition was implemented using machine learning and deep learning, with the YOLO model achieving 97.76% accuracy. A real-time application enables users who are blind or have low vision to navigate files and interact with documents through hand gestures, similar to conventional touch displays.
 
 tags:
   - A Silver Nanowires-Based Flexible Capacitive Touch Screen

@@ -25,7 +25,7 @@ publication_short: ""
 abstract: Understanding document layouts is vital for enhancing document exploration and information retrieval for sighted individuals. However, for blind and visually impaired people, it becomes challenging to have access to layout information using typical assistive technologies such as screenreaders. In this paper, we examine the potential benefits of presenting documents on two-dimensional (2D) refreshable tactile displays. These displays enable the tactile perception of 2D data, offering the advantage of dynamic and interactive functionality. Despite their potential, the development of user interfaces (UIs) for such displays has not advanced significantly. Thus, we propose a design of an intelligent tactile user interface (TUI), incorporating touch and audio feedback to represent docu- ments in a tactile format. Our exploratory study for evaluating this approach revealed satisfaction from participants with the experience of directly viewing documents in their true form, rather than relying on screen-reading interpretations. Additionally, participants offered recommendations for incorporating additional features and refining the approach in future iterations. To facilitate further research and development, we have made our dataset and models publicly available.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper explores the use of two-dimensional (2D) refreshable tactile displays to provide blind and visually impaired people with access to document layout information that is typically unavailable through screen readers. An intelligent tactile user interface (TUI) was designed, integrating touch and audio feedback to support dynamic and interactive document exploration.
 
 tags:
 - User Interface Design for 2D Tactile Displays
@@ -59,7 +59,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**MDPI**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
