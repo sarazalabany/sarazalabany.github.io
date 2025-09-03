@@ -1,7 +1,13 @@
 ---
-title: "An example preprint / working paper"
+title: "Designing a Tactile Document UI for 2D Refreshable Tactile Displays: Towards Accessible Document Layouts for Blind People"
 authors:
-- admin
+- Sara Alzalabny
+- Omar Moured
+- Karin Müller
+- Thorsten Schwarz
+- Bastian Rapp 
+- Rainer Stiefelhagen
+
 date: "2019-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +22,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Understanding document layouts is vital for enhancing document exploration and information retrieval for sighted individuals. However, for blind and visually impaired people, it becomes challenging to have access to layout information using typical assistive technologies such as screenreaders. In this paper, we examine the potential benefits of presenting documents on two-dimensional (2D) refreshable tactile displays. These displays enable the tactile perception of 2D data, offering the advantage of dynamic and interactive functionality. Despite their potential, the development of user interfaces (UIs) for such displays has not advanced significantly. Thus, we propose a design of an intelligent tactile user interface (TUI), incorporating touch and audio feedback to represent docu- ments in a tactile format. Our exploratory study for evaluating this approach revealed satisfaction from participants with the experience of directly viewing documents in their true form, rather than relying on screen-reading interpretations. Additionally, participants offered recommendations for incorporating additional features and refining the approach in future iterations. To facilitate further research and development, we have made our dataset and models publicly available.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- User Interface Design for 2D Tactile Displays
 
 featured: true
 
