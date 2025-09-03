@@ -1,8 +1,10 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
+- Ahmed Hamza
+- Santosh Kumar Prabhulingaiah
+- Pegah Pezeshkpour
+- Bastian E. Rapp
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
