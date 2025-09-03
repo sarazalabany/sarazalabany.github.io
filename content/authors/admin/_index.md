@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Intelligent Reader for Blind and Visually Impaired People
+title: TactoRead - Intelligent Reader for Blind and Visually Impaired People
 
 # Name pronunciation (optional)
-name_pronunciation: TactoRead 
+name_pronunciation:  
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -187,10 +187,10 @@ awards:
 ## About Us
 
   At TactoRead, we are passionate about making technology more accessible, intuitive, and inclusive.
-  We are Ahmed and Sara, researchers, PhD holders, and lifelong learners in the field of embedded systems, human-computer interaction, and assistive technology. We've dedicated our work to bridging the gap between innovative engineering and real-world impact.
+  We are Ahmed and Sara, researchers, PhD holders, in the field of embedded systems, human-computer interaction, and assistive technology. We've dedicated our work to bridging the gap between innovative engineering and real-world impact.
 
-  TactoRead was born from a shared vision: to create smart, tangible interfaces that empower users through touch and technology. Our research has driven us to explore how embedded systems can enhance accessibility, education, and communication—especially for those often overlooked by mainstream tech solutions.
+  TactoRead was born from a shared vision: to create smart, tangible interfaces that empower users through touch and technology. Our research has driven us to explore how odern technologies can enhance accessibility, education, and communication, especially for those often overlooked by mainstream tech solutions.
 
-  We believe in simplicity backed by powerful engineering. Our work is rooted in academic rigor but driven by human needs. Through TactoRead, we aim to transform cutting-edge research into meaningful products that make a difference.
+  Through TactoRead, we aim to transform cutting-edge research into meaningful products that make a difference.
 
   Welcome to our journey!
