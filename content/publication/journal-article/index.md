@@ -22,9 +22,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Touchscreens are essential parts of many electronics in daily lives of sighted people in the digital information era. On the other hand, visually impaired users
-  rely on tactile displays as one of the key communication devices to interact with the digital world. However, due to their working mechanism and the uneven surface of tactile displays, one of the key features of screens for sighted users is surprisingly challenging to implement: precision touch input. To overcome this, a
-  hand gesture recognition system is developed using a frequency-modulated continuous wave millimeter-wave radar. A multifeature encoder method is used to obtain the range and velocity information from the radar to translate the data into spectrogram images. Gesture recognition is implemented for common input gestures: single/double-click, swipe-right/left, scroll-up/down, zoom-in/out, and rotate-anticlockwise/clockwise. The gesture recognition and classification are based on machine learning, support vector machines, deep learning, and convolutional neural network approaches. The chosen model You-Only-Look-Once (YOLOv8) shows a high accuracy of 97.1% by iterating only 30 epochs with only 500 collected data samples per gesture. This research paves the way toward using radar sensors not only for tactile displays but also for other digital devices in human–computer interaction.
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: This work presents a hand gesture recognition system using frequency-modulated continuous wave millimeter-wave radar to address the challenge of precision touch input on tactile displays for visually impaired users. Radar data is processed into spectrogram images and classified using machine learning and deep learning method.
