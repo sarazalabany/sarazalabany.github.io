@@ -22,7 +22,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract:
+abstract: "test"
 
 # Summary. An optional shortened abstract.
 summary: This work presents a hand gesture recognition system using frequency-modulated continuous wave millimeter-wave radar to address the challenge of precision touch input on tactile displays for visually impaired users. Radar data is processed into spectrogram images and classified using machine learning and deep learning method.
